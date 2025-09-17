@@ -28,6 +28,8 @@ Este proyecto consta de una pagina web programada con JavaScript, utilizando los
 Para pode probarlo solo es necesario descargar el proyecto directo del repositorio y abrir el archivo HTML
 🛠️ Abre y ejecuta el proyecto
 Para probarlo, solo escribe un nombre, agregalo, escribe unos mas, y sortealo para saber cual es tu amigo secreto
+🌐 Acceso en linea
+Tambien puedes acceder sin descargar el proyecto dando click en el siguiente enlace 
 
 # Tecnologías utilizadas
 
