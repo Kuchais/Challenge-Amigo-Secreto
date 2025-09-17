@@ -24,3 +24,9 @@ function agregarAmigo(){ //Funcion principal al presionar el boton agregar amigo
     }
     document.getElementById('amigo').value = (''); //Al acabar, limpiamos el input
 }
+
+function sortearAmigo(){
+    if (listaAmigos == ''){
+        alert("Agregue al menos 2 amigos");
+    }
+}
